@@ -7,7 +7,7 @@
 * For older BlackBerry devices (7200 series) 
 * Couldn't find origial source code, had to decompile them from Java executable.
 
-##### Screenshot
+##### Screenshots
 
 
 ![screenshot 1](https://github.com/chriscomeau/SkyriserVideoPoker/blob/master/images/handango_poker1.gif)
