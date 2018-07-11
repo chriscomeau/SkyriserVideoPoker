@@ -1,5 +1,7 @@
 # Skyriser Video Poker game for BlackBerry 
 
+![logo](https://github.com/chriscomeau/Portfolio/blob/master/images/video_poker_icon.png)
+
 ##### Notes
 
 * Skyriser Media, 2004
