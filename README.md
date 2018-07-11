@@ -18,5 +18,6 @@
 
 ##### Links
 
+* [GitHub project](https://github.com/chriscomeau/SkyriserVideoPoker)
 * [BlackBerry store](http://www.blackberrysoftware.us/v,c3ltYmlhbjEwNjM/skyriser_video_poker.jsp/)
 
