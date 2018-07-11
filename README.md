@@ -9,6 +9,8 @@
 * For older BlackBerry devices (7200 series) 
 * Couldn't find origial source code, had to decompile them from Java executable.
 
+**Note**: This project is for reference only and does not compile. Some image/sound assets and libraries were removed.
+
 ##### Screenshots
 
 
