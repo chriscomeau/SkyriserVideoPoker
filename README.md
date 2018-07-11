@@ -1,5 +1,5 @@
-# SkyriserVideoPoker
-Video Poker game for BlackBerry (from 2004).
+# Skyriser Video Poker game for BlackBerry 
+(Java, J2M2, 2004)
 
 Couldn't find origial source code, had to decompile them from Java executable.
 
